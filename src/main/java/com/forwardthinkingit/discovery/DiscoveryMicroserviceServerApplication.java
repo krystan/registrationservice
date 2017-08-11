@@ -1,4 +1,4 @@
-package com.forwardthinkingit;
+package com.forwardthinkingit.discovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
